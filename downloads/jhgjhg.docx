@@ -1,0 +1,20 @@
+{
+  "_id": "6652ffdb1d8e006efd866478",
+  "clientName": "hgjhgh",
+  "dataflowEndpoint": "jhgh",
+  "customerApplicationName": "jhgh",
+  "deliveryTimeline": "20/05/2024",
+  "productionClusterInitial": "jhgh",
+  "productionClusterName": "jhgh",
+  "qualityAndAssuranceClusterInitial": "jhgh",
+  "qualityAndAssuranceClusterName": "jhgh",
+  "customerSolutionName": "jhgh",
+  "maximumLatency": "jhgh",
+  "artifactoryClusterInitial": "jhg",
+  "artifactoryClusterName": "jhg",
+  "developmentClusterInitial": "jhgh",
+  "developmentClusterName": "jhgh",
+  "descriptionOfDataflow": "jhgh",
+  "descriptionOfConnectivityBetweenClusterAndLegacyPlatform": "jhgh",
+  "__v": 0
+}
